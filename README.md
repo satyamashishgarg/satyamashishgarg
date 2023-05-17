@@ -16,10 +16,9 @@ During his undergraduate studies in Computer Science, Satyam developed a solid f
 - 🛠 &nbsp; I’m currently working with Bash Scripting, Linux Command Line and Nessuses.
 - 🚀 &nbsp; I’m currently doing Vulnerability Management as well.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/satyamashishgarg).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📫 &nbsp; How to reach me: sag1n22@soton.ac.uk
+- 📝 &nbsp; Checkout my [Resume](https://github.com/satyamashishgarg/satyamashishgarg/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
