@@ -5,7 +5,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=satyamashishgarg.satyamashishgarg&style=flat-square&color=0088cc)
 
-ISatyam Ashish Garg is an individual who holds a Bachelor's degree in Computer Science and is currently pursuing a Master's degree in Cyber Security. His educational background reflects his strong interest and dedication to the field of technology and information security.
+Satyam Ashish Garg is an individual who holds a Bachelor's degree in Computer Science and is currently pursuing a Master's degree in Cyber Security. His educational background reflects his strong interest and dedication to the field of technology and information security.
+
+During his undergraduate studies in Computer Science, Satyam developed a solid foundation in programming, data structures, algorithms, and other core concepts of computer science. He gained practical experience by working on various projects, both individually and as part of a team. These experiences enhanced his technical skills and problem-solving abilities.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
