@@ -113,8 +113,7 @@ During his undergraduate studies in Computer Science, Satyam developed a solid f
 	    <li><b>Laptop: </b> Fortinet Network Security Expert Level 1: Certified Associate (i5)</li>
   	    <li><b>Browser: </b> Bash Scripting: Code Academy </li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
-	</ul>	
+	Also, I regularly solve CTFs on TryHackMe. Vulnhub and HacktheBox. I also write writeups and articles on Medium!	</ul>	
 </details>
 
 #
