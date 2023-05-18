@@ -58,7 +58,7 @@ During his undergraduate studies in Computer Science, Satyam developed a solid f
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamashishgarg&hide_border=true" />
 </details>
 
 <details>
