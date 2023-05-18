@@ -18,7 +18,7 @@ During his undergraduate studies in Computer Science, Satyam developed a solid f
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/satyamashishgarg).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: sag1n22@soton.ac.uk
-- 📝 &nbsp; Checkout my [Resume](https://github.com/satyamashishgarg/satyamashishgarg/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/satyamashishgarg/satyamashishgarg/blob/main/resume.pdf).
 
 ### My Absolute Favorites:
 
