@@ -92,7 +92,50 @@ During his undergraduate studies in Computer Science, Satyam developed a solid f
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/satyamashishgarg/Keylogger-written-in-C-Sharp?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/satyamashishgarg/Keylogger-written-in-C-Sharp?style=flat-square"/></td> 
       </tr>
-
+	<tr>
+	      <td><a href="https://github.com/satyamashishgarg/python-file-moonitor"><b>🥤 CI Pipeline</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/satyamashishgarg/CI-Pipeline?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/satyamashishgarg/CI-Pipeline?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/satyamashishgarg/CI-Pipeline?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/satyamashishgarg/CI-Pipeline?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/satyamashishgarg/CI-Pipeline?style=flat-square"/></td>
+      </tr>
+	    
+	   <tr>
+	      <td><a href="https://github.com/satyamashishgarg/python-file-moonitor"><b>✈️ IaC Deployment</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/satyamashishgarg/IaC-Deployment?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/satyamashishgarg/IaC-Deployment?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/satyamashishgarg/IaC-Deployment?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/satyamashishgarg/IaC-Deployment?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/satyamashishgarg/IaC-Deployment?style=flat-square"/></td>
+      </tr>
+	    
+	    <tr>
+	      <td><a href="https://github.com/satyamashishgarg/python-file-moonitor"><b>🐼 Data Analysis With Pandas</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/satyamashishgarg/data-analysis-with-pandas?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/satyamashishgarg/data-analysis-with-pandas?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/satyamashishgarg/data-analysis-with-pandas?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/satyamashishgarg/data-analysis-with-pandas?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/satyamashishgarg/data-analysis-with-pandas?style=flat-square"/></td>
+      </tr>
+	    
+	    <tr>
+	      <td><a href="https://github.com/satyamashishgarg/python-file-moonitor"><b>📊 Data Visualization With Matplotlib</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/satyamashishgarg/data-visualization-with-matplotlib?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/satyamashishgarg/data-visualization-with-matplotlib?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/satyamashishgarg/data-visualization-with-matplotlib?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/satyamashishgarg/data-visualization-with-matplotlib?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/satyamashishgarg/data-visualization-with-matplotlib?style=flat-square"/></td>
+      </tr>
+	    
+	    <tr>
+	      <td><a href="https://github.com/satyamashishgarg/machine-learning"><b>🪫 Machine Learning</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/satyamashishgarg/machine-learning?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/satyamashishgarg/machine-learning?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/satyamashishgarg/machine-learning?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/satyamashishgarg/machine-learning?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/satyamashishgarg/machine-learning?style=flat-square"/></td>
+      </tr>
       <tr>
 	      <td><a href="https://github.com/satyamashishgarg/satyamashishgarg"><b>🤓 satyamashishgarg</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/satyamashishgarg/satyamashishgarg?style=flat-square&labelColor=343b41"/></td>
