@@ -144,8 +144,7 @@ During his undergraduate studies in Computer Science, Satyam developed a solid f
         <td><img alt="Issues" src="https://img.shields.io/github/issues/satyamashishgarg/satyamashishgarg?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/satyamashishgarg/satyamashishgarg?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-	
+	    </tr>	
     </tbody>
   </table>
   <br />
