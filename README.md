@@ -139,7 +139,15 @@ During his undergraduate studies in Computer Science, Satyam developed a solid f
         <td><img alt="Issues" src="https://img.shields.io/github/issues/satyamashishgarg/satyamashishgarg?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/satyamashishgarg/satyamashishgarg?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-	    </tr>	
+	    </tr>
+	    <tr>
+	      <td><a href="https://github.com/satyamashishgarg/real-time-threat-analysis"><b>🦠 CI Real Time Threat Analysis</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/satyamashishgarg/real-time-threat-analysis?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/satyamashishgarg/real-time-threat-analysis?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/satyamashishgarg/real-time-threat-analysis?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/satyamashishgarg/real-time-threat-analysis?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/satyamashishgarg/real-time-threat-analysis?style=flat-square"/></td>
+      </tr>
     </tbody>
   </table>
   <br />
